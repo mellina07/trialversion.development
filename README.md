@@ -1,2 +1,2 @@
 # trialversion.development
-This trail development
+This is a trail development
