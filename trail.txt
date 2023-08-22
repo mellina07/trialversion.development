@@ -2,3 +2,4 @@ profile page code
 chat screen code
 last seen code
 attachments (image,audio,video) code
+hiding  the last seen 
